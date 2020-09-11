@@ -1,0 +1,1 @@
+java -jar -Xmx6144M -Xms6144M crazycraft3.jar -o true
